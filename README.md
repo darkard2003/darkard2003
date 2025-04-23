@@ -93,7 +93,7 @@
   
   <h3>Watch my contribution graph get eaten by a snake 🐍</h3>
   
-  <img src="https://github.com/darkard2003/darkard2003/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/darkard2003/darkard2003/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
