@@ -1,0 +1,11 @@
+# Git ignore file
+
+# Ignore techstack file
+techstack.txt
+
+# Other common files to ignore
+node_modules/
+__pycache__/
+*.log
+.DS_Store
+.env
