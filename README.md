@@ -89,7 +89,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkard2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="darkard2003" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkard2003&theme=tokyonight" alt="darkard2003" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkard2003&theme=tokyonight&ring=2E96F7&fire=2E96F7&currStreakLabel=2E96F7" alt="darkard2003" />
   
   <h3>Watch my contribution graph get eaten by a snake 🐍</h3>
   
