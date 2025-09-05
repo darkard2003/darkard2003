@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working  at [Metarizz](https://www.metarizz.com/)
 - 🌱 I'm currently learning **Golang** and **Zig**
-- 👨‍💻 Check out my portfolio at [darkchoclate.lol](https://www.darkchoclate.lol./)
+- 👨‍💻 Check out my portfolio at [kaushikchowdhury.dev](https://kaushikchowdhury.dev/)
 - 📫 Reach me at **kaushikchowdhury231@gmail.com**
 
 ## 🚀 Tech Stack
