@@ -10,7 +10,6 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working  at [Metarizz](https://www.metarizz.com/)
 - 🌱 I'm currently learning **Golang** and **Zig**
 - 👨‍💻 Check out my portfolio at [kaushikchowdhury.dev](https://kaushikchowdhury.dev/)
 - 📫 Reach me at **kaushikchowdhury231@gmail.com**
